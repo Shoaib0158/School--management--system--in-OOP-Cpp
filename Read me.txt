@@ -1,0 +1,9 @@
+## About Me
+
+Hello! I'm Shoaib, a passionate programmer and technology enthusiast with a keen interest in developing innovative solutions through code. My journey in software development started with C++, and I have been exploring various facets of programming ever since. I enjoy solving complex problems and continuously learning new technologies to enhance my skill set.
+
+Feel free to explore my repositories to see the projects I've worked on. I'm always open to collaboration and feedback. Let's build something amazing together!
+
+## Contact
+
+- Email: baba.nazar7204@gmail.com
